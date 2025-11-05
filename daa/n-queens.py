@@ -69,3 +69,10 @@ else:
         print_board(board)
     else:
         print("\nSolution does not exist for this starting position.")
+
+
+
+# input for possible solution:
+# 4 1 0
+# 4 0 1
+# 8 0 3
